@@ -1,0 +1,116 @@
+#hero .row {
+  background-image: url("https://media.istockphoto.com/id/1294603953/vector/abstract-black-stripes-diagonal-background.jpg?s=612x612&w=0&k=20&c=nQZHTk-o97cNVqWnUe8BJg0A5jQG0tqylquzbt9YtcQ=");
+  height: 75vh;
+  color: white;
+  padding-left: 10rem;
+  padding-right: 10rem;
+}
+
+#hero .row h1 {
+  font-size: 5rem;
+}
+
+/* #hero h2 {
+  size: ;
+} */
+#third .row {
+  background-image: url("https://media.istockphoto.com/id/1294603953/vector/abstract-black-stripes-diagonal-background.jpg?s=612x612&w=0&k=20&c=nQZHTk-o97cNVqWnUe8BJg0A5jQG0tqylquzbt9YtcQ=");
+  height: 60vh;
+  color: white;
+}
+
+#second .row {
+  padding-left: 10rem;
+  padding-right: 10rem;
+  padding-bottom: 0rem;
+  padding-top: 10rem;
+}
+
+#third #row1 {
+  padding-left: 10rem;
+  padding-right: 10rem;
+  padding-bottom: 0rem;
+  padding-top: 10rem;
+}
+#third #row2 {
+  padding-left: 10rem;
+  padding-right: 10rem;
+  padding-bottom: 0rem;
+  /* padding-top: 10rem; */
+}
+
+#four .row {
+  padding-left: 10rem;
+  padding-right: 10rem;
+  padding-bottom: 0rem;
+  padding-top: 10rem;
+}
+#second h2 {
+  font-size: xx-large;
+}
+
+#text1 {
+  padding-bottom: 5rem;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  width: fit-content;
+}
+
+#second .row .card {
+  border: none;
+}
+
+#second .row .card-footer {
+  border: none;
+  background-color: white;
+}
+
+#four .row {
+  /* padding-bottom: 1rem; */
+}
+
+.row .card {
+  border: none;
+}
+
+.row .card-footer {
+  border: none;
+  background-color: white;
+}
+
+#four .card img {
+  height: 15rem;
+  width: 25rem;
+}
+
+#blue {
+  background-color: rgb(87, 188, 246);
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  color: white;
+}
+
+#blue button {
+  border: none;
+  background-color: white;
+  border-radius: 3px;
+}
+
+#footer a {
+  text-decoration: none;
+  color: white;
+}
+#footer {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  background-color: black;
+  color: white;
+}
+
+#footer a {
+  font-size: 13px;
+}
+
+#four #one {
+  padding-bottom: 10rem;
+}
